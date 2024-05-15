@@ -1,2 +1,19 @@
-# Kateryna-Bachkalo
-Personal repository
+### Hi friends, I'm Kateryna 👋
+
+- 🌱 I’m currently working on my pet projects.
+- 🌱 English B2.
+- 🤗 Open to collaboration.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bachkalo-kateryna/), [telegram](https://t.me/kateryna_b1)
+
+Stack:
+
+- Langs: **JavaScript** && **TypeScript** **HTML**
+- CSS: **CSS** **Grid CSS**
+- Front: **React** **React Native** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
+- Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon** **multer** **Swagger** **Firebase**
+- Bundlers: **Webpack** **Parcel**
+- Editors: **Prettier** **ESlint**
+- API testing: **Postman**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaBachkalo&layout=compact&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterynaBachkalo&theme=tokyonight)](https://github.com/KaterynaBachkalo/github-readme-stats)
