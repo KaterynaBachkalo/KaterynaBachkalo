@@ -16,3 +16,4 @@ Stack:
 - API testing: **Postman**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaBachkalo&layout=compact&theme=tokyonight)
+![Top Langs](https://github.com/KaterynaBachkalo/github-readme-stats)
