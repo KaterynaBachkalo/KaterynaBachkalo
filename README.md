@@ -14,7 +14,7 @@ Stack:
 - Bundlers: **Webpack** **Parcel**
 - Editors: **Prettier** **ESlint**
 - API testing: **Postman**
-- 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaBachkalo&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterynaBachkalo&show_icons=true&theme=tokyonight)
 
