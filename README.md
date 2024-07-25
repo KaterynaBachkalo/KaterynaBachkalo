@@ -15,5 +15,5 @@ Stack:
 - Editors: **Prettier** **ESlint**
 - API testing: **Postman**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterynaBachkalo&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterynaBachkalo&show_icons=true&theme=tokyonight)
 
