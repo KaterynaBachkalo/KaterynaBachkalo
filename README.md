@@ -9,7 +9,7 @@ Stack:
 
 - Langs: **JavaScript** && **TypeScript** **HTML** **PUG**
 - CSS: **CSS** **SCSS** **Grid** **Flexbox** 
-- Front: **React** **React Native** **Redux Toolkit** **Formik, React Hook Form & Yup** **Toastify** **Axios**
+- Front: **React** **React Native** **Redux Toolkit** **Formik, React Hook Form & Yup** **Toastify** **Axios** **Wordpress (Elementor)**
 - Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon** **multer** **Swagger** **Firebase**
 - Bundlers: **Webpack** **Parcel**
 - Editors: **Prettier** **ESlint**
