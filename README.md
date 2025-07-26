@@ -1,5 +1,4 @@
 ### Hi friends, I'm Kateryna 👋
-- 🌱 I am currently working as a freelance HTML developer.
 - 🌱 I am currently working on a commercial project on Wordpress (Elementor). https://queenlaser.com.ua/
 - 🌱 English B2.
 - 🤗 Open to collaboration.
